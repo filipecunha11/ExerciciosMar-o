@@ -1,11 +1,12 @@
-package mar03;
 
-import mar03.Exercicio1;
+
+import posArray.Exercicio1;
+import collection.Exer21;
 
 public class Principal {
 
 	public static void main(String[] args) {
-		new Exercicio1();
+		new Exer21();
 	}
 
 }
